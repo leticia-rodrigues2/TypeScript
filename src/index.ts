@@ -1,2 +1,2 @@
-import funcao from "./mode"
-funcao()
+import funcao from "./mode";
+funcao();
